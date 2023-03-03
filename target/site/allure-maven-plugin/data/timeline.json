@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "PatrykPC",
+    "children" : [ {
+      "name" : "5200@PatrykPC.TestNG-tests-1(37)",
+      "children" : [ {
+        "name" : "asUserTryToLogInWithIncorrectLoginAndPassword",
+        "uid" : "e2d6ab08055ce6b3",
+        "parentUid" : "90ec31696b61048b6b4f362b035c9c66",
+        "status" : "failed",
+        "time" : {
+          "start" : 1677858536227,
+          "stop" : 1677858536892,
+          "duration" : 665
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "CHROME" ]
+      } ],
+      "uid" : "90ec31696b61048b6b4f362b035c9c66"
+    } ],
+    "uid" : "4c55085c8db3b2bafa8cd4c3258d456f"
+  } ]
+}

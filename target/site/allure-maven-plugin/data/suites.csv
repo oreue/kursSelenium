@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Fri Mar 03 16:48:56 CET 2023","Fri Mar 03 16:48:56 CET 2023","665","All Pet Store Tests","Negative Login Tests","tests.FailedLoginTests","tests.FailedLoginTests","asUserTryToLogInWithIncorrectLoginAndPassword","asUserTryToLogInWithIncorrectLoginAndPassword","Celem testu jest zalogowanie sie za pomoca blednych danych testowych: username/password i sprawdzenie czy pojawia sie komunikat bledu."
