@@ -1,6 +1,6 @@
 package driver.manager;
 
-import configuration.LocalWebDriverProperties;
+
 import driver.BrowserFactory;
 import driver.BrowserType;
 import driver.listeners.WebDriverEventListenerRegistrar;
